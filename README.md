@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-(https://www.frontendmentor.io/solutions/interactive-rating-component-using-css-flexbox-and-javascript-i0t2037Kt1)
+https://www.frontendmentor.io/solutions/product-preview-card-component-responsive-using-css-flexbox-Lq3vlBbuaK
 
 ## Table of contents
 
