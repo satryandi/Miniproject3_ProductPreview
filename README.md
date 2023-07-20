@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/satryandi/FrontentMentor_InteractiveRatingComponent
-- Live Site URL: https://satryandi-miniproject1.netlify.app/
+- Solution URL: https://github.com/satryandi/FrontendMentor_ProductPreviewCardComponent
+- Live Site URL: https://satryandi-miniproject3.netlify.app/
 
 ## My process
 
