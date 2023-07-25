@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-responsive-using-css-flexbox-Lq3vlBbuaK
-- Live Site URL: https://satryandi-miniproject2.netlify.app/
+- Live Site URL: https://satryandi-miniproject3.netlify.app/
 
 ## My process
 
